@@ -3,18 +3,18 @@
 ***
 ### Indice
 
-1. [¿Qué es GIT?] (#¿Qué-es-GIT?)
-2. [Conceptos clave] (#Conceptos clave)
-3. [Comandos básicos] (#Comandos básicos)
-4. [Como iniciar GIT] (#Como iniciar GIT)
-5. [Empezar con GIT] (#Empezar con GIT)
-6. [Como continuar trabajando] (#Como continuar trabajando)
-7. [Ignorar archivos] (#Ignorar archivos)
-8. [Versiones alternativas del código] (#Versiones alternativas del código)
-9. [Comandos útiles] (#Comandos útiles)
-10. [Subir repositorio a GitHub] (#Subir repositorio a GitHub)
-11. [Clonar repositorios] (#Clonar repositorios)
-12. [Archivo README] (#Archivo README)
+1. [¿Qué es GIT?](#¿Qué-es-GIT?)
+2. [Conceptos clave](#Conceptos clave)
+3. [Comandos básicos](#Comandos básicos)
+4. [Como iniciar GIT](#Como iniciar GIT)
+5. [Empezar con GIT](#Empezar con GIT)
+6. [Como continuar trabajando](#Como continuar trabajando)
+7. [Ignorar archivos](#Ignorar archivos)
+8. [Versiones alternativas del código](#Versiones alternativas del código)
+9. [Comandos útiles](#Comandos útiles)
+10. [Subir repositorio a GitHub](#Subir repositorio a GitHub)
+11. [Clonar repositorios](#Clonar repositorios)
+12. [Archivo README](#Archivo README)
 
 ***
 ## ¿Qué es GIT?
